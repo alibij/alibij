@@ -22,11 +22,11 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
 
 # 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=mr-mohamadmhz&theme=onedark&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=alibij&theme=onedark&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 # 👀 Profile Views
 <div align="center">
-  <img src="https://profile-counter.glitch.me/mr-mohamadmhz/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/alibij/count.svg?"  />
 </div>
 
 # 📊 GitHub Stats:
