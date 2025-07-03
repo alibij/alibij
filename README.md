@@ -21,6 +21,14 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=plastic&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
 
+# 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=mr-mohamadmhz&theme=onedark&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+# 👀 Profile Views
+<div align="center">
+  <img src="https://profile-counter.glitch.me/mr-mohamadmhz/count.svg?"  />
+</div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=alibij&theme=omni&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alibij&theme=omni&hide_border=false)
