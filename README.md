@@ -29,9 +29,10 @@
   <img src="https://profile-counter.glitch.me/alibij/count.svg?"  />
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alibij&theme=omni&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=alibij&theme=omni&hide_border=false)
+# 📊 My GitHub Stats
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=alibij&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=alibij&limit=5&theme=dark&combine_all_yearly_contributions=true)
