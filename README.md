@@ -42,16 +42,6 @@
 # 🔝 Top Contributed Repositories  
 <img src="https://github-contributor-stats.vercel.app/api?username=alibij&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 
----
 
-# 🐍 Contribution Snake Animation  
-<img src="https://github.com/alibij/alibij/raw/output/github-contribution-grid-snake.svg"/>
-
----
-
-# 👀 Profile Views  
-<img src="https://profile-counter.glitch.me/alibij/count.svg?" />
-
-[![](https://visitcount.itsvg.in/api?id=alibij&icon=2&color=4)](https://visitcount.itsvg.in)
 
 </div>
