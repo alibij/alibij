@@ -10,7 +10,19 @@
 
 ---
 
-# 💻 Tech Stack  
+# ✨ Beauty Info
+Creating projects that are both functional and visually appealing is a top priority.
+
+Crafting each solution with an eye for detail and user experience.
+
+**Practical touches**
+- 🎛️ Intuitive IoT dashboards that make data easy to explore
+- 🤖 Robotics control panels with clean feedback and vibrant visuals
+- 🛠️ Hardware prototypes arranged for clarity and style
+
+---
+
+# 💻 Tech Stack
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"/> 
 <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi"/>
