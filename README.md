@@ -1,47 +1,70 @@
-<div align="center">
+# 👋 Hi, I'm Ali
 
-# 💫 About Me  
-✔ Embedded Systems Developer | Electronics & Automation Engineer  
-✔ Specialized in **Arduino, ESP32, Raspberry Pi, and ARM-based MCUs**  
-✔ Experienced in **Industrial Automation, IoT, FastAPI backend, MongoDB**  
-✔ Collaborating on **Robotics, Firmware Design, and H/W-S/W Integration**  
-✔ Currently learning **Dart** & advancing in **Smart System Design**  
-✔ Open to **Freelance** or **Collaborative Hardware/Software Projects**
+**Embedded Systems Developer | Electronics & Automation Engineer**
 
----
+I design and build **reliable embedded and smart systems** — from low-level firmware to connected IoT backends.
 
-# 💻 Tech Stack  
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"/> 
-<img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi"/>
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white"/>
-<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white"/>
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=plastic&logo=Raspberry-Pi"/>
-<img src="https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white"/>
+- 🔹 Embedded Systems & Industrial Automation
+- 🔹 Microcontrollers: **Arduino, ESP32, Raspberry Pi, ARM-based MCUs**
+- 🔹 Firmware Development, Robotics, and HW/SW Co-Design
+- 🔹 IoT Backends using **FastAPI** and **MongoDB**
+- 🔹 Linux-based systems & basic DevOps
+- 🔹 Currently learning **Dart** and modern **Smart System Architectures**
+- 🔹 Open to **Freelance**, **Remote**, and **Collaborative Projects**
 
 ---
 
-# 🏆 GitHub Trophies  
-<img src="https://github-profile-trophy.vercel.app/?username=alibij&theme=onedark&no-frame=true&margin-w=15&margin-h=15" />
+## 🧠 What I Do Best (New & Useful)
+
+- Design **robust firmware** for real-world constraints  
+- Integrate **hardware, firmware, and backend services**
+- Build **scalable IoT architectures**
+- Debug systems at **signal, protocol, and software levels**
+- Turn concepts into **production-ready prototypes**
 
 ---
 
-# 📊 GitHub Stats  
+## 💻 Tech Stack
 
-<img src="https://github-readme-stats.vercel.app/api?username=alibij&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alibij&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" />
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=plastic&logo=Raspberry-Pi)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
 
 ---
 
-# 🔝 Top Contributed Repositories  
-<img src="https://github-contributor-stats.vercel.app/api?username=alibij&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+## 📊 GitHub Stats (Stable)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alibij&show_icons=true&theme=dracula)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alibij&layout=compact&theme=dracula)
 
-</div>
+---
+
+## 📌 How to Evaluate My Work (New & Smart)
+
+- Check **Pinned Repositories** for real projects
+- Read **README files** for architecture & design choices
+- Review **commit history** for consistency and quality
+- Look at **issues & discussions** for problem-solving approach
+
+---
+
+## 🤝 Let’s Collaborate
+
+If you’re working on:
+- Embedded systems
+- IoT products
+- Robotics or automation
+- Hardware-software integration
+
+Feel free to reach out and collaborate.
+
+---
+
+> _I value clean design, reliability, and systems that work in the real world._
