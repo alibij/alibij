@@ -4,17 +4,17 @@
 
 I design and build **reliable embedded and smart systems** — from low-level firmware to connected IoT backends.
 
-- 🔹 Embedded Systems & Industrial Automation
-- 🔹 Microcontrollers: **Arduino, ESP32, Raspberry Pi, ARM-based MCUs**
-- 🔹 Firmware Development, Robotics, and HW/SW Co-Design
-- 🔹 IoT Backends using **FastAPI** and **MongoDB**
-- 🔹 Linux-based systems & basic DevOps
-- 🔹 Currently learning **Dart** and modern **Smart System Architectures**
-- 🔹 Open to **Freelance**, **Remote**, and **Collaborative Projects**
+- Embedded Systems & Industrial Automation
+- Microcontrollers: **Arduino, ESP32, Raspberry Pi, ARM-based MCUs**
+- Firmware Development, Robotics, and HW/SW Co-Design
+- IoT Backends using **FastAPI** and **MongoDB**
+- Linux-based systems & basic DevOps
+- Currently learning **Dart** and modern **Smart System Architectures**
+- Open to **Freelance**, **Remote**, and **Collaborative Projects**
 
 ---
 
-## 🧠 What I Do Best (New & Useful)
+## 🧠 What I Do Best 
 
 - Design **robust firmware** for real-world constraints  
 - Integrate **hardware, firmware, and backend services**
@@ -38,15 +38,9 @@ I design and build **reliable embedded and smart systems** — from low-level fi
 
 ---
 
-## 📊 GitHub Stats (Stable)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alibij&show_icons=true&theme=dracula)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alibij&layout=compact&theme=dracula)
-
----
-
-## 📌 How to Evaluate My Work (New & Smart)
+## 📌 How to Evaluate My Work 
 
 - Check **Pinned Repositories** for real projects
 - Read **README files** for architecture & design choices
