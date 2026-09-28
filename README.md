@@ -1,64 +1,69 @@
+<div align="center">
+
 # 👋 Hi, I'm Ali
 
-**Embedded Systems Developer | Electronics & Automation Engineer**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Embedded+Systems+Alchemist;IoT+%26+Backend+Developer;DevOps+Enthusiast;Turning+Coffee+into+Firmware...☕)](https://git.io/typing-svg)
 
-I design and build **reliable embedded and smart systems** — from low-level firmware to connected IoT backends.
+**I build smart systems that actually work in the real world — bridging the gap between bare-metal hardware and scalable cloud infrastructure (and trying not to fry the boards in the process).** ⚡
 
-- Embedded Systems & Industrial Automation
-- Microcontrollers: **Arduino, ESP32, Raspberry Pi, ARM-based MCUs**
-- Firmware Development, Robotics, and HW/SW Co-Design
-- IoT Backends using **FastAPI** and **MongoDB**
-- Linux-based systems & basic DevOps
-- Currently learning **Dart** and modern **Smart System Architectures**
-- Open to **Freelance**, **Remote**, and **Collaborative Projects**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Contact_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](#)
+
+</div>
 
 ---
 
-## 🧠 What I Do Best 
+## 🚀 The TL;DR
 
-- Design **robust firmware** for real-world constraints  
-- Integrate **hardware, firmware, and backend services**
-- Build **scalable IoT architectures**
-- Debug systems at **signal, protocol, and software levels**
-- Turn concepts into **production-ready prototypes**
-
----
-
-## 💻 Tech Stack
-
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=plastic&logo=Raspberry-Pi)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
+- 🔌 **Hardware & Embedded:** Custom electronics, PCB tinkering, and making microcontrollers (Arduino, ESP32, ARM) do my bidding.
+- 🌐 **Backend & Full-Stack:** Architecting robust APIs and services using **Python (FastAPI)**, **Node.js**, and occasionally wrestling with **React**. 
+- 🛠️ **DevOps & Infrastructure:** Because "it works on my machine" isn't good enough. I containerize with **Docker**, configure **Debian/Linux** servers, manage **Nginx** reverse proxies, and handle network routing.
+- 🌱 **Currently Exploring:** **Dart** and modern Smart System Architectures.
+- 🧠 **Fun Fact:** I can design a custom 555-timer circuit just as happily as I can write a complex database query.
 
 ---
 
+## 💻 Tech Stack & Weapons of Choice
 
+<div align="center">
+  
+*Languages & Frameworks*<br>
+<img src="https://skillicons.dev/icons?i=cpp,python,fastapi,nodejs,react,dart&theme=dark" alt="Languages and Frameworks" />
 
-## 📌 How to Evaluate My Work 
+*Databases, DevOps & Infrastructure*<br>
+<img src="https://skillicons.dev/icons?i=linux,debian,docker,nginx,mongodb,redis&theme=dark" alt="DevOps and Infra" />
 
-- Check **Pinned Repositories** for real projects
-- Read **README files** for architecture & design choices
-- Review **commit history** for consistency and quality
-- Look at **issues & discussions** for problem-solving approach
+*Hardware & Embedded*<br>
+<img src="https://skillicons.dev/icons?i=raspberrypi,arduino,idea&theme=dark" alt="Hardware" />
 
----
-
-## 🤝 Let’s Collaborate
-
-If you’re working on:
-- Embedded systems
-- IoT products
-- Robotics or automation
-- Hardware-software integration
-
-Feel free to reach out and collaborate.
+</div>
 
 ---
 
-> _I value clean design, reliability, and systems that work in the real world._
+## 🕹️ What I Actually Do
+
+| 🎯 The Mission | 💡 How It Goes Down |
+| :--- | :--- |
+| **Robust Firmware** | Writing C++ code that survives power dips, weird sensor noise, and the laws of physics. |
+| **IoT & Backend** | Building scalable databases and REST APIs so the hardware has a nice place to talk to. |
+| **DevOps & Deployment** | Dockerizing the backend, setting up the servers, and making sure nothing crashes at 3 AM. |
+| **Deep Debugging** | Using an oscilloscope in one hand and reading server logs in the other. |
+
+---
+
+## 📊 The "Proof I Actually Write Code" Section
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF" width="48%" />
+</div>
+
+---
+
+## 🤝 Let’s Build Something Awesome
+
+Whether it's an industrial automation project, a scalable web app, setting up a reverse proxy tunnel, or just arguing about the best Linux distro, I'm always down to collaborate. 
+
+📫 **Status:** Open to **Freelance**, **Remote**, and **Collaborative Projects**.
+
+> _"I value clean design, high performance, and code that doesn't need to be rebooted every 24 hours."_
