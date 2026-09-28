@@ -18,8 +18,8 @@
 As a Tech Agency Lead and Systems Architect, my focus goes beyond writing code. I specialize in designing scalable system architectures and guiding products from concept to deployment. 
 
 - 🏛️ **Tech Leadership & Strategy:** Translating complex business requirements into robust technical roadmaps and overseeing the software development lifecycle.
-- 🌐 **Systems Architecture:** Architecting high-availability backend services and APIs using **Python (FastAPI)** and **Node.js**, alongside modern frontends (**React & Redux**).
-- 🔌 **Hardware & Embedded:** Directing HW/SW co-design, custom hardware prototyping, and IoT ecosystems (ESP32, ARM).
+- 🌐 **Systems Architecture:** Architecting high-availability backend services and APIs using **Python (FastAPI)** and **Node.js**.
+- 🔌 **Hardware & Embedded:** Directing HW/SW co-design, custom hardware prototyping, and industrial IoT ecosystems.
 - 🛠️ **DevOps & Infrastructure:** Ensuring reliability and security at scale. I oversee containerized environments (**Docker**), **Debian** servers, load balancing (**Nginx**), and advanced network routing.
 - 🧠 **The Advantage:** I lead from the front. The best tech managers actually know how the engine works under the hood — from high-level database architecture down to low-level hardware debugging.
 
@@ -30,21 +30,21 @@ As a Tech Agency Lead and Systems Architect, my focus goes beyond writing code. 
 <div align="center">
   
 *Languages, APIs & Automation*<br>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,fastapi,nodejs,bash,postman&theme=dark" alt="Languages and APIs" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,fastapi,nodejs,bash,postman,git&theme=dark" alt="Languages and APIs" />
 
 *Databases, DevOps & Infrastructure*<br>
 <img src="https://skillicons.dev/icons?i=linux,debian,docker,nginx,mongodb,redis&theme=dark" alt="DevOps and Infra" />
 
-*Hardware, IoT & Embedded Systems*<br>
-<img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark" alt="Hardware" /><br>
-<!-- بج‌های حرفه‌ای سخت‌افزار برای تکمیل آیکون‌ها -->
-![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5C43C?style=for-the-badge&logo=altium&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-FE7A16?style=for-the-badge&logo=PlatformIO&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+*Hardware & Embedded Base*<br>
+<img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark" alt="Hardware" />
+
+<br><br>
+
+**🛠️ Advanced Hardware & IoT Expertise:**  
+`ESP32` • `STM32 / ARM Cortex-M` • `Altium Designer` • `PlatformIO` • `MQTT & CoAP` • `PCB Design`
 
 </div>
+
 ---
 
 ## 🕹️ Core Competencies
