@@ -29,17 +29,22 @@ As a Tech Agency Lead and Systems Architect, my focus goes beyond writing code. 
 
 <div align="center">
   
-*Languages & Frameworks*<br>
-<img src="https://skillicons.dev/icons?i=cpp,python,fastapi,nodejs,react,redux,dart&theme=dark" alt="Languages and Frameworks" />
+*Languages, APIs & Automation*<br>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,fastapi,nodejs,bash,postman&theme=dark" alt="Languages and APIs" />
 
 *Databases, DevOps & Infrastructure*<br>
 <img src="https://skillicons.dev/icons?i=linux,debian,docker,nginx,mongodb,redis&theme=dark" alt="DevOps and Infra" />
 
-*Hardware & Embedded*<br>
-<img src="https://skillicons.dev/icons?i=raspberrypi,arduino,idea&theme=dark" alt="Hardware" />
+*Hardware, IoT & Embedded Systems*<br>
+<img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark" alt="Hardware" /><br>
+<!-- بج‌های حرفه‌ای سخت‌افزار برای تکمیل آیکون‌ها -->
+![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5C43C?style=for-the-badge&logo=altium&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-FE7A16?style=for-the-badge&logo=PlatformIO&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 
 </div>
-
 ---
 
 ## 🕹️ Core Competencies
